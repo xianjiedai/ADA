@@ -47,8 +47,8 @@ round-avatar: true
 social-network-links:
   email: "xianjie.dai@epfl.ch"
 # facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: xianjiedai
+#  twitter: daattali
 # patreon: DeanAttali
   youtube: c/daattali
 #  reddit: yourname
@@ -70,7 +70,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -78,7 +77,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: False
   vk: false
 
 # How to display the link to your website in the footer
@@ -116,7 +115,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/assets/img/head.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/head.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
