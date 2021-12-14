@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Popular Topics
+subtitle: What topics about Bitcoin are popular in Quotebank, what contents are included in each topic
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
