@@ -1,0 +1,13 @@
+ETH Ethereum
+XRP Ripple(瑞波币)
+BCH(比特币现金)
+LTC Litecoin(莱特币)
+ADA Cardano(艾达币)
+NEO(小蚁)
+XLM Stellar(恒星币)
+EOS(柚子币)
+XMR  Monero(门罗币)
+DASH(达世币)
+MIOTA(埃欧塔币)
+
+https://www.zhihu.com/question/276330822/answer/386255628
