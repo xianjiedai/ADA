@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutme"
   Resources:
     - Bitcoin Price: "https://coinmarketcap.com/currencies/bitcoin/historical-data/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Group Repo: "https://github.com/Hanyuan-Hu/ADA-HW1"
   
 
 # --- Logo --- #
