@@ -22,7 +22,7 @@ author: rmrf group
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Bitcoin Price: " https://coinmarketcap.com/currencies/bitcoin/historical-data/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
