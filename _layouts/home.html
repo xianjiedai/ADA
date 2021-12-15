@@ -44,7 +44,10 @@ layout: page
       {% endif %}
     </a>
 
-
+    <p class="post-meta">
+      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+ 
+    </p>
 
     {% if thumbnail != "" %}
     <div class="post-image post-image-small">
