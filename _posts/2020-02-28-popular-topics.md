@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: Popular Topics
 subtitle: What topics about Bitcoin are popular in Quotebank, what contents are included in each topic
 comments: false
 ---
 
-How about a yummy crepe?
+How aboaaaut a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
