@@ -182,7 +182,7 @@ footer-img: "/assets/img/2.png"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-#date_format: "%B %-d, %Y"
+date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
