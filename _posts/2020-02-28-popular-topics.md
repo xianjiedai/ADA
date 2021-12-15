@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Popular Topics
 subtitle: What topics about Bitcoin are popular in Quotebank, what contents are included in each topic
 comments: false
